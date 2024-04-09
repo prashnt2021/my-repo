@@ -1,0 +1,23 @@
+[33mcommit dcae9090cdf66e1b835ba6b6fce56f1d5a0013c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: prashant <prashant2021@gmail.com>
+Date:   Tue Apr 9 13:19:00 2024 +0530
+
+    data1.txt data2.txt modified data3.txt added
+
+[33mcommit 5f5bf64974dfd02647ecfa4f053db2002a74577c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: prashant <prashant2021@gmail.com>
+Date:   Tue Apr 9 13:05:56 2024 +0530
+
+    data2.txt added
+
+[33mcommit 3937fcc62133f99f5e54357367604c4dbbedbea4[m
+Author: prashant <prashant2021@gmail.com>
+Date:   Tue Apr 9 12:58:37 2024 +0530
+
+    data1.txt added
+
+[33mcommit 1d87212f40cd36d89ab5f24588da4b314eabc799[m
+Author: prashnt2021 <165984830+prashnt2021@users.noreply.github.com>
+Date:   Tue Apr 9 12:52:06 2024 +0530
+
+    Initial commit
